@@ -2,6 +2,7 @@
 
 
 #RUS:
+(Собирать проект при помощи maven)
 Достаточно запустить Server.jar для работы сервера.
 Открытие порта на сервере совершается в классе Server в этой строке (Channel channel = serverBootstrap.bind(8080).sync().channel();)
 Файлы хранящиеся на сервере лежат по указаному пути "src\main\java\Server\Files", можно класть файлы в ручную. 
@@ -17,6 +18,7 @@
 
 
 #ENG:
+(Build project using maven)
 It is enough to run Server.jar for the server to work.
 Opening a port on the server is done in the Server class in this line (Channel channel = serverBootstrap.bind (8080) .sync (). Channel ();)
 Files stored on the server are located at the specified path "src \ main \ java \ Server \ Files", you can put the files manually.
