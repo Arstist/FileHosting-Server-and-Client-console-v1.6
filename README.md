@@ -14,6 +14,7 @@
 
 #Minus
 -Не реализована инициализация новых файлов без перезагрузки сервера
+-Максимальный вес файлы 30MB
 
 
 
@@ -31,3 +32,4 @@ For more information about all commands, you can write the command / help, the s
 
 #Minus
 -Not implemented initialization of new files without restarting the server
+-Maximum files weight 30MB
